@@ -44,8 +44,8 @@ links:
   #   url: /publications/
   # - title: Awards
   #   url: /awards/
-  # - title: Hobbies
-  #   url: /hobbies/
+  - title: Ingress
+    url: /ingress/
   - title: Blogs
     url: /blogs/
 
