@@ -11,31 +11,32 @@ title: XM Profiler - 中二机器探查
 <br>台场公园拼图：
 <br>[お台場公園めぐり](https://bannergress.com/banner/%E3%81%8A%E5%8F%B0%E5%A0%B4%E5%85%AC%E5%9C%92%E3%82%81%E3%81%90%E3%82%8A-8737)
 
+<br>
 <img src="/ingress/2016-07-14/image001.jpg">
 
 
 <br>（说真的这是个有点坑的拼图…我完全没想到一个18任务的拼图竟然会做了5个小时都没做完…感兴趣的同学请一定要注意任务的编号！因为9号和10号的起点起点po很接近所以很容易弄错！）
 
 <br>刚开始路过未来科学馆的时候还以为这个机器会在那附近，然而是直到我做到第11个任务，到了青海站附近的VenusFort才发现了这个中二机器的po。
-
-<img src="/ingress/2016-07-14/image002.jpg">
+<br>
+<img src="/ingress/2016-07-14/image002.png">
 
 <br>（写稿子刚刚截的图…嗯嗯满满都是ap）
-
+<br>
 <img src="/ingress/2016-07-14/image003.jpg">
 
 <br>到的时候这个po正被两个绿军大叔<span style="color:#578737">@divetodeep</span>和<span style="color:#578737">@kontaro001</span>占领还丧心病狂加了三个AXA...
 <br>炸了几下感觉炸不动就觉得算了，去看看中二机器的真面目好了…说不定还能见到那两个大叔。
 <br>于是沿着po的方向走过去果然看到了几个自动贩卖机中出了一台高大上的奇怪机子！
-
+<br>
 <img src="/ingress/2016-07-14/image004.jpg">
 
 <br>当然也看到了两位大叔（要不然怎么知道是两个大叔呢23333），亲切交谈了顺便抱怨了下716蓝军赢了也没什么意义（日蓝表示这个系列输了的锅我们不背）后，两个大叔就默默回家（搅基？）了，留下这个3AXA的po给我自己一个人慢慢炸（能不能有点良心3AXA啊混蛋！）
-
+<br>
 <img src="/ingress/2016-07-14/image005.jpg">
 
 <br>首先我看了看两个屏幕，上方的屏幕是我们熟悉的地区分数排行和地区的蓝绿比例（应该是po的owner比例），最右边那一栏是这个po的mod情况。
-
+<br>
 <img src="/ingress/2016-07-14/image006.jpg">
 
 
@@ -45,32 +46,35 @@ title: XM Profiler - 中二机器探查
 <br>接下来就是喜闻乐见的炸炸炸时候了。
 <br>最神经病的是，这个po被炸的时候居然会发出啾啾啾的声音…
 <br>我一直在想旁边那么多的路人会有什么想法….
-
+<br>
 <img src="/ingress/2016-07-14/image007.jpg">
 <br>（受到攻击时的下屏）
 
 <br>炸成白之后两个屏幕都变成白色了。
-
+<br>
 <img src="/ingress/2016-07-14/image008.jpg">
+<br>
 <img src="/ingress/2016-07-14/image009.jpg">
 
 <br>插入脚成功capture后
-
+<br>
 <img src="/ingress/2016-07-14/image010.jpg">
+<br>
 <img src="/ingress/2016-07-14/image011.jpg">
 
 <br>（记得没错的话capture好像还发出了神奇的声音…要是记错了请当做我没说）
-
+<br>
 <img src="/ingress/2016-07-14/image012.jpg">
 
 <br>然而插入mod时却没什么特别的。
-
+<br>
 <img src="/ingress/2016-07-14/image013.jpg">
-<img src="/ingress/2016-07-14/image014.jpg">
 
 <br>最后是po的介绍。
+<br>
+<img src="/ingress/2016-07-14/image014.jpg">
 
-<img src="/ingress/2016-07-14/image015.jpg">
+
 
 <br>猩猩你就不能用英文吗！
 <br>大概意思就是，伊藤园开始展开全新搭载着po监视系统的自动贩卖机（根本就没卖什么东西好吗！），可以从这个系统观测这个po的等级、脚、mod和阵营的情况。系统对po进行了强化，hack这个po可以拿到比普通po多的物资（然而并没有任何感觉…你就不能有自带薯条的功能吗）。
