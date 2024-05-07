@@ -4,7 +4,11 @@ permalink: /ingress/index.html
 title: Ingress
 ---
 
-### Here is a repo for my articles published in BJRES.
+### This is a repo for my articles published in Ingress BeiJing WeChat Channel. 
+
+#### 2017
+
+- [日本才是爹！Portal Recon将逐步向日本全国所有15、16级玩家开放！](https://reiinoki.github.io/ingress/2017-04-12.html)
 
 #### 2016
 
