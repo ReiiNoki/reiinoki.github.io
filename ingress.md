@@ -6,6 +6,10 @@ title: Ingress
 
 ### This is a repo for my articles published in Ingress BeiJing WeChat Channel. 
 
+#### 2024
+
+- [基于 Ultimate Mission Maker 的组图任务申请教程](https://reiinoki.github.io/ingress/2024-05-11.html)
+
 #### 2017
 
 - [猩猩王的自传开卖啦！](https://reiinoki.github.io/ingress/2017-11-27.html)
