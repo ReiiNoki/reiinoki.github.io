@@ -15,7 +15,6 @@ title: 基于 Ultimate Mission Maker 的组图任务申请教程
 - Ultimate Mission Maker 插件，在这个网站下载：https://umm.8bitnoise.rocks/
   下载后重启IITC地图生效。
 
-<br>
 <br>2. 界面简介
 <br>在个人ID下面会出现一个UMM Opt的新按钮，按下即会出现工具的界面。
 <img src="/ingress/2024-05-11/image001.png">
@@ -26,16 +25,19 @@ title: 基于 Ultimate Mission Maker 的组图任务申请教程
 <br>左上角是任务路线选择和各个任务的路线切换工具
 <br>
 <img src="/ingress/2024-05-11/image004.png">
+<br>
 <br>3. 使用方法
 <br>任务标题和描述编辑：
 <br>在主界面按下Edit banner details
 <br>
 <img src="/ingress/2024-05-11/image003.png">
 <br>在这里可以编辑任务系列名，任务介绍，任务数量和各个任务的标题格式，编辑后最下方会生成给定格式的任务名预览。
+<br>
 <img src="/ingress/2024-05-11/image005.png">
 <br>其中，符号T表示任务名，NN和N分别表示有无前导0的任务编号，M表示任务总数。
 <br>例如我在格式中填写的 T N-M, 可以得到Hello 1-12这样的系列任务名。
 <br>编辑后按下save保存。
+<br>
 <br>任务路线编辑：
 <br>这里就需要使用左上角的任务路线编辑工具了。
 <img src="/ingress/2024-05-11/image006.png">
@@ -46,6 +48,7 @@ title: 基于 Ultimate Mission Maker 的组图任务申请教程
 <br>如果想任务路线进行合并或反转，可以选择主界面的Merge missions或Reverse mission，我没用过就不多介绍了，一般也用不上。
 <br>任务数据导入和导出：
 <br>任务编辑完成后，在主界面按下Export banner data to file可以将任务路线导出位json文件。如果想要对之前的任务进行编辑可以按下 选择文件 来导入json文件进行任务编辑。
+<br>
 <br>4. 任务申请
 <br>任务图片分割可使用这个工具：https://www.giacintogarcea.com/ingress/tools/missionset/
 <br>进入任务申请网站：https://missions.ingress.com/
@@ -62,4 +65,3 @@ title: 基于 Ultimate Mission Maker 的组图任务申请教程
 <img src="/ingress/2024-05-11/image011.png">
 <br>用这个工具唯一的缺点就是任务路线无法使用Field Trip的地点了，不过现在影响也不大。
 <br>以上就是基于UMM的组图任务申请教程了。我觉得最方便的地方还是如果你申请一套组图有几个怎么申都申不过的时候，只要给其他agent发一份json文件就可以帮你申请。IITC的po位置也比原生Intel准确得多。希望可以帮助到以后想申请组图的各位！
-
