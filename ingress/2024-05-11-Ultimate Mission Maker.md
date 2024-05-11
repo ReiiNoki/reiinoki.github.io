@@ -12,8 +12,7 @@ title: 基于 Ultimate Mission Maker 的组图任务申请教程
 
 - Chrome或Edge等可以使用篡改猴（Tampermonkey）插件的浏览器
 - IITC，没用过的同学可以查阅北蓝之前的教程：https://mp.weixin.qq.com/s/zg-jimo8uBjUvfcI5iTfeQ
-- Ultimate Mission Maker 插件，在这个网站下载：https://umm.8bitnoise.rocks/
-  下载后重启IITC地图生效。
+- Ultimate Mission Maker 插件，在这个网站下载：https://umm.8bitnoise.rocks/ 下载后重启IITC地图生效。
 
 <br>2. 界面简介
 <br>在个人ID下面会出现一个UMM Opt的新按钮，按下即会出现工具的界面。
@@ -22,6 +21,7 @@ title: 基于 Ultimate Mission Maker 的组图任务申请教程
 <br>工具的主界面如下
 <br>
 <img src="/ingress/2024-05-11/image002.png">
+<br>
 <br>左上角是任务路线选择和各个任务的路线切换工具
 <br>
 <img src="/ingress/2024-05-11/image004.png">
@@ -46,6 +46,7 @@ title: 基于 Ultimate Mission Maker 的组图任务申请教程
 <img src="/ingress/2024-05-11/image007.png">
 <br>填入任务长度就可以分割成对应数量的任务了。
 <br>如果想任务路线进行合并或反转，可以选择主界面的Merge missions或Reverse mission，我没用过就不多介绍了，一般也用不上。
+<br>
 <br>任务数据导入和导出：
 <br>任务编辑完成后，在主界面按下Export banner data to file可以将任务路线导出位json文件。如果想要对之前的任务进行编辑可以按下 选择文件 来导入json文件进行任务编辑。
 <br>
@@ -60,8 +61,11 @@ title: 基于 Ultimate Mission Maker 的组图任务申请教程
 <img src="/ingress/2024-05-11/image009.png">
 <br>任务类型分为Sequential(序列完成)和Any Order（任意顺序完成）类型可供选择。如果申请序列型的话，可以打勾设置为隐藏路线的任务（这时需要为其他agent提供线索）。
 <br>下一页面的任务标题和描述已经填好了，只需要把任务图标导入即可。
+<br>
 <img src="/ingress/2024-05-11/image012.png">
 <br>路线也导入完毕，直接下一步提交即可。
+<br>
 <img src="/ingress/2024-05-11/image011.png">
 <br>用这个工具唯一的缺点就是任务路线无法使用Field Trip的地点了，不过现在影响也不大。
+<br>
 <br>以上就是基于UMM的组图任务申请教程了。我觉得最方便的地方还是如果你申请一套组图有几个怎么申都申不过的时候，只要给其他agent发一份json文件就可以帮你申请。IITC的po位置也比原生Intel准确得多。希望可以帮助到以后想申请组图的各位！
