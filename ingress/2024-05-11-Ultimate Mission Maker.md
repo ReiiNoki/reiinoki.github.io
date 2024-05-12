@@ -51,8 +51,8 @@ title: 基于 Ultimate Mission Maker 的组图任务申请教程
 <br>任务编辑完成后，在主界面按下Export banner data to file可以将任务路线导出位json文件。如果想要对之前的任务进行编辑可以按下 选择文件 来导入json文件进行任务编辑。
 <br>
 <br>4. 任务申请
-<br>任务图片分割可使用这个工具：https://www.giacintogarcea.com/ingress/tools/missionset/
-<br>进入任务申请网站：https://missions.ingress.com/
+<br>任务图片分割可使用这个工具：[Mission Banner Cropper](https://www.giacintogarcea.com/ingress/tools/missionset/)
+<br>进入任务申请网站：[Ingress Mission Creator Tool](https://missions.ingress.com/)
 <br>现在网站左上角会有这一个新的导入按钮
 <img src="/ingress/2024-05-11/image008.png">
 <br>点击文件夹按钮导入之前的json文件
