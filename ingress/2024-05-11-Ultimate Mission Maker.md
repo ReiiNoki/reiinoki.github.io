@@ -48,7 +48,7 @@ title: 基于 Ultimate Mission Maker 的组图任务申请教程
 <br>如果想任务路线进行合并或反转，可以选择主界面的Merge missions或Reverse mission，我没用过就不多介绍了，一般也用不上。
 <br>
 <br>任务数据导入和导出：
-<br>任务编辑完成后，在主界面按下Export banner data to file可以将任务路线导出位json文件。如果想要对之前的任务进行编辑可以按下 选择文件 来导入json文件进行任务编辑。
+<br>任务编辑完成后，在主界面按下Export banner data to file可以将任务路线导出为json文件。如果想要对之前的任务进行编辑可以按下“选择文件”来导入json文件进行任务编辑。
 <br>
 <br>4. 任务申请
 <br>任务图片分割可使用这个工具：[Mission Banner Cropper](https://www.giacintogarcea.com/ingress/tools/missionset/)
