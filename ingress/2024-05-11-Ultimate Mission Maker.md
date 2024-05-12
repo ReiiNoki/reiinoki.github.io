@@ -11,8 +11,8 @@ title: 基于 Ultimate Mission Maker 的组图任务申请教程
 <br>1. 工具准备
 
 - Chrome或Edge等可以使用篡改猴（Tampermonkey）插件的浏览器
-- IITC，没用过的同学可以查阅北蓝之前的教程：https://mp.weixin.qq.com/s/zg-jimo8uBjUvfcI5iTfeQ
-- Ultimate Mission Maker 插件，在这个网站下载：https://umm.8bitnoise.rocks/ 下载后重启IITC地图生效。
+- IITC，没用过的同学可以查阅北蓝之前的教程：[IITC （Ingress Intel Total Conversion）教程](https://mp.weixin.qq.com/s/zg-jimo8uBjUvfcI5iTfeQ)
+- [Ultimate Mission Maker](ttps://umm.8bitnoise.rocks/) 插件, 点击链接下载，h 下载后重启IITC地图生效。
 
 <br>2. 界面简介
 <br>在个人ID下面会出现一个UMM Opt的新按钮，按下即会出现工具的界面。
@@ -57,7 +57,7 @@ title: 基于 Ultimate Mission Maker 的组图任务申请教程
 <img src="/ingress/2024-05-11/image008.png">
 <br>点击文件夹按钮导入之前的json文件
 <br>在申请主页面点击右上方Create New Mission创建新任务。
-<br>选择想申请的任务，点击Import出现以下通知即可导入任务路线。
+<br>在左上方文件夹右侧下拉列表选择想申请的任务，点击Import出现以下通知即可导入任务路线。
 <img src="/ingress/2024-05-11/image009.png">
 <br>任务类型分为Sequential(序列完成)和Any Order（任意顺序完成）类型可供选择。如果申请序列型的话，可以打勾设置为隐藏路线的任务（这时需要为其他agent提供线索）。
 <br>下一页面的任务标题和描述已经填好了，只需要把任务图标导入即可。
