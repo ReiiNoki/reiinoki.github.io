@@ -12,7 +12,7 @@ title: 基于 Ultimate Mission Maker 的组图任务申请教程
 
 - Chrome或Edge等可以使用篡改猴（Tampermonkey）插件的浏览器
 - IITC，没用过的同学可以查阅北蓝之前的教程：[IITC （Ingress Intel Total Conversion）教程](https://mp.weixin.qq.com/s/zg-jimo8uBjUvfcI5iTfeQ)
-- [Ultimate Mission Maker](ttps://umm.8bitnoise.rocks/) 插件, 点击链接下载，h 下载后重启IITC地图生效。
+- [Ultimate Mission Maker](ttps://umm.8bitnoise.rocks/) 插件, 点击链接下载，下载后重启IITC地图生效。
 
 <br>2. 界面简介
 <br>在个人ID下面会出现一个UMM Opt的新按钮，按下即会出现工具的界面。
