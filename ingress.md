@@ -17,6 +17,6 @@ title: Ingress
 
 #### 2016
 
-- [18个淮海路的 Mission Day - MDZZ！大和MD夜刷制霸队阵亡记录](https://reiinoki.github.io/ingress/2016-11-30.html)
+- [18个淮海路的 Mission Day \| MDZZ！大和MD夜刷制霸队阵亡记录](https://reiinoki.github.io/ingress/2016-11-30.html)
 - [PMGO非官方活动TS-Third Saturday](https://reiinoki.github.io/ingress/2016-09-17.html)
 - [XM Profiler - 中二机器探查](https://reiinoki.github.io/ingress/2016-07-14.html)
