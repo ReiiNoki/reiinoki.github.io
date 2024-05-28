@@ -25,7 +25,7 @@ title: XM Profiler - 中二机器探查
 <br>
 <img src="/ingress/2016-07-14/image003.jpg">
 
-<br>到的时候这个po正被两个绿军大叔<span style="color:#578737">@divetodeep</span>和<span style="color:#578737">@kontaro001</span>占领还丧心病狂加了三个AXA...
+<br>到的时候这个po正被两个绿军大叔<span style="color:#10ff7e">@divetodeep</span>和<span style="color:#10ff7e">@kontaro001</span>占领还丧心病狂加了三个AXA...
 <br>炸了几下感觉炸不动就觉得算了，去看看中二机器的真面目好了…说不定还能见到那两个大叔。
 <br>于是沿着po的方向走过去果然看到了几个自动贩卖机中出了一台高大上的奇怪机子！
 <br>
