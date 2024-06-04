@@ -10,6 +10,10 @@ title: Ingress
 
 - [基于 Ultimate Mission Maker 的组图任务申请教程](https://reiinoki.github.io/ingress/2024-05-11.html)
 
+#### 2018
+
+- [富士急 Ingress 动画联动 AR 活动 -- 不对，是一边被 Hulong 追杀一边处理 DarkXM 装置是一种什么体验](https://reiinoki.github.io/ingress/2018-12-27.html)
+
 #### 2017
 
 - [猩猩王的自传开卖啦！](https://reiinoki.github.io/ingress/2017-11-27.html)
