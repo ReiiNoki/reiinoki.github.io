@@ -456,11 +456,12 @@ h6 {
 
 p {
 	margin: 0 0 @indent-val;
-	& + p {
-		//siblings indentation
-		text-indent: @indent-val;
-		margin-top: -@indent-val;
-	}
+	/* Removed paragraph indent to match markdown preview behavior */
+	// & + p {
+	// 	//siblings indentation
+	// 	text-indent: @indent-val;
+	// 	margin-top: -@indent-val;
+	// }
 }
 
 
@@ -502,10 +503,11 @@ pre code {
 	.white-space-pre-wrap;
 }
 pre {
-	.white-space-pre;
+	white-space: pre-wrap;
+	word-break: break-all;
 }
 code {
-	.white-space-pre;
+	white-space: pre-wrap;
 	font-family: monospace;
 }
 

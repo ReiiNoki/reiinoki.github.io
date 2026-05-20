@@ -65,11 +65,13 @@ h3{font-size:36px;font-size:2rem;margin-bottom:0.825rem;text-rendering:optimizeL
 h4{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
 h5{font-size:21px;font-size:1.1666666666666667rem;margin-bottom:1.4142857142857141rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
 h6{font-size:18px;font-size:1rem;margin-bottom:1.65rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
-p{margin:0 0 1.5em;}p+p{text-indent:1.5em;margin-top:-1.5em;}
+p{margin:0 0 1.5em;}
+/* Removed paragraph indent to match markdown preview behavior */
+/* p+p{text-indent:1.5em;margin-top:-1.5em;} */
 abbr,acronym,blockquote,code,dir,kbd,listing,plaintext,q,samp,tt,var,xmp{-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;-o-hyphens:none;hyphens:none;}
 pre code{word-wrap:normal;white-space:-moz-pre-wrap;white-space:pre-wrap;}
-pre{white-space:pre;}
-code{white-space:pre;font-family:monospace;}
+pre{white-space:pre-wrap;word-break:break-all;}
+code{white-space:pre-wrap;font-family:monospace;}
 abbr{font-variant:small-caps;font-weight:400;text-transform:lowercase;color:#333332;}abbr:hover{cursor:help;}
 h1,h2,h3,h4,h5,h6{color:#333332;}
 .lining dt,.lining dd{display:inline;margin:0;}
@@ -100,7 +102,7 @@ figcaption{margin-top:0.75em;line-height:1.25;font-size:18px;font-size:1rem;marg
 blockquote{font-style:italic;margin-left:0;padding-left:1em;border-left:10px solid #ccc;}blockquote p+p{text-indent:0;margin-top:0;}
 .footnotes{font-size:90%;}
 tt,code,kbd,samp,pre{font-family:Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;}
-p code{font-size:80%;white-space:nowrap;margin:0 2px;padding:0 5px;border:1px solid #e6e6e6;background-color:#f2f2f2;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
+p code{font-size:80%;white-space:normal;margin:0 2px;padding:0 5px;border:1px solid #e6e6e6;background-color:#f2f2f2;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
 .highlight{background-color:#efefef;font-family:Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;font-size:80%;color:#333332;margin-bottom:1.5em;}
 .highlight pre{margin:0px;padding:1em;}
 .hll{background-color:#ffffcc;}
