@@ -20,4 +20,4 @@ layout: page
 
 2175 – 游戏王-目标决斗王怪兽GX! Yu-Gi-Oh Duel Monsters GX – Mezase Duel King!(JP)
 
-<img src="/images/avatar.jpg" class="floatpic" width="360" height="480">
+![Noki的头像](/images/avatar.jpg)

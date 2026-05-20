@@ -4,17 +4,17 @@ permalink: /ingress/index.html
 title: Ingress
 ---
 
-### This is a repo for my articles published in Ingress BeiJing WeChat Channel. 
+## This is a repo for my articles published in Ingress BeiJing WeChat Channel
 
-#### 2024
+### 2024
 
 - [基于 Ultimate Mission Maker 的组图任务申请教程](https://reiinoki.github.io/ingress/2024-05-11.html)
 
-#### 2018
+### 2018
 
 - [富士急 Ingress 动画联动 AR 活动 -- 不对，是一边被 Hulong 追杀一边处理 DarkXM 装置是一种什么体验](https://reiinoki.github.io/ingress/2018-12-27.html)
 
-#### 2017
+### 2017
 
 - [猩猩王的自传开卖啦！](https://reiinoki.github.io/ingress/2017-11-27.html)
 - [日本才是爹！Portal Recon将逐步向日本全国所有15、16级玩家开放！](https://reiinoki.github.io/ingress/2017-04-12.html)
