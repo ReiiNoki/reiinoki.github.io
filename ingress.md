@@ -4,11 +4,12 @@ permalink: /ingress/index.html
 title: Ingress
 ---
 
-This is a repo for my articles published in Ingress BeiJing WeChat Channel
+This is a repo for my articles published in Ingress BeiJing WeChat Channel.
 
 ## 2026
 
 - [Niantic Wayfarer高德地图支持插件](https://reiinoki.github.io/ingress/2026-05-23.html)
+- [中国内地宝可梦Go可玩地区统计](https://reiinoki.github.io/ingress/2026-05-21.html)
 
 ## 2024
 
