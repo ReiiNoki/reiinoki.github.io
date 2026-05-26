@@ -6,6 +6,10 @@ title: Ingress
 
 ## This is a repo for my articles published in Ingress BeiJing WeChat Channel
 
+### 2026
+
+- [Niantic Wayfarer高德地图支持插件](https://reiinoki.github.io/ingress/2026-05-23.html)
+
 ### 2024
 
 - [基于 Ultimate Mission Maker 的组图任务申请教程](https://reiinoki.github.io/ingress/2024-05-11.html)

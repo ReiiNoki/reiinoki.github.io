@@ -98,6 +98,7 @@ ol li{list-style-type:upper-roman;}
 p>a,li>a,em>a,a>em,footer a{text-decoration:none;border-bottom:1px dotted #b3b3b1;}
 p>a:hover,li>a:hover,em>a:hover,footer a:hover{text-decoration:none;border-bottom:1px solid #b3b3b1;}
 figcaption{margin-top:0.75em;line-height:1.25;font-size:18px;font-size:1rem;margin-bottom:1.65rem;font-family:'PT Sans Narrow',sans-serif;counter-increment:captions;}figcaption:before{font-weight:700;text-transform:uppercase;content:"Figure " counter(captions) ": ";}
+.img-caption{display:block;text-align:center;font-size:85%;color:#999;margin-top:0.4em;}
 .notice{margin-top:1.5em;padding:.5em 1em;text-indent:0;font-size:90%;background-color:#ddd;border-left:10px solid #ccc;}
 blockquote{font-style:italic;margin-left:0;padding-left:1em;border-left:10px solid #ccc;}blockquote p+p{text-indent:0;margin-top:0;}
 .footnotes{font-size:90%;}
