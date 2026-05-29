@@ -20,7 +20,7 @@ This is a repo for my articles published in Ingress BeiJing WeChat Channel.
 ## 2022
 
 - [中二机器被移动到南极](https://reiinoki.github.io/ingress/2022-08-04.html)
-- [中二机器即将下线！\| XM-Profiler简要回顾](https://reiinoki.github.io/ingress/2022-07-21.html)
+- <a href="https://reiinoki.github.io/ingress/2022-07-21.html">中二机器即将下线！| XM-Profiler简要回顾</a>
 - [白嫖猩猩战斗道标简要介绍](https://reiinoki.github.io/ingress/2022-06-27.html)
 
 ## 2018
@@ -35,7 +35,7 @@ This is a repo for my articles published in Ingress BeiJing WeChat Channel.
 
 ## 2016
 
-- [18个淮海路的 Mission Day \| MDZZ！大和MD夜刷制霸队阵亡记录](https://reiinoki.github.io/ingress/2016-11-30.html)
+- <a href="https://reiinoki.github.io/ingress/2016-11-30.html">18个淮海路的 Mission Day | MDZZ！大和MD夜刷制霸队阵亡记录</a>
 - [PMGO非官方活动TS-Third Saturday](https://reiinoki.github.io/ingress/2016-09-17.html)
 - [中二机器再临 XM-Profiler二号机](https://reiinoki.github.io/ingress/2016-09-12.html)
 - [XM Profiler - 中二机器探查](https://reiinoki.github.io/ingress/2016-07-14.html)
