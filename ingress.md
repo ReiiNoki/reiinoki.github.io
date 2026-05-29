@@ -14,7 +14,6 @@ This is a repo for my articles published in Ingress BeiJing WeChat Channel.
 ## 2024
 
 - [基于 Ultimate Mission Maker 的组图任务申请教程](https://reiinoki.github.io/ingress/2024-05-11.html)
-- [任务自荐：星が降った場所](https://reiinoki.github.io/ingress/2024-05-08.html)
 - [猩猩你旧游戏一堆bug没修好还开新坑？一开还开十个？](https://reiinoki.github.io/ingress/2024-05-07.html)
 
 ## 2022
