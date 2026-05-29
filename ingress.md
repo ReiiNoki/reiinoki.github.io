@@ -14,13 +14,16 @@ This is a repo for my articles published in Ingress BeiJing WeChat Channel.
 ## 2024
 
 - [基于 Ultimate Mission Maker 的组图任务申请教程](https://reiinoki.github.io/ingress/2024-05-11.html)
-- [猩猩你旧游戏一堆bug没修好还开新坑？一开还开十个？](https://reiinoki.github.io/ingress/2024-05-07.html)
 
 ## 2022
 
 - [中二机器被移动到南极](https://reiinoki.github.io/ingress/2022-08-04.html)
 - <a href="https://reiinoki.github.io/ingress/2022-07-21.html">中二机器即将下线！| XM-Profiler简要回顾</a>
 - [白嫖猩猩战斗道标简要介绍](https://reiinoki.github.io/ingress/2022-06-27.html)
+
+## 2020
+
+- [猩猩你旧游戏一堆bug没修好还开新坑？一开还开十个？](https://reiinoki.github.io/ingress/2020-07-06.html)
 
 ## 2018
 
