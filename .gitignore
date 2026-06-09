@@ -1,0 +1,31 @@
+# Drafts and local notes
+draft/
+
+# Jekyll build output and caches
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.jekyll-serve.log
+
+# Ruby / Bundler local installs
+Gemfile.lock
+vendor/bundle/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Environment files
+.env
+.env.*
