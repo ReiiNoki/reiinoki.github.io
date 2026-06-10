@@ -22,7 +22,7 @@
 </head>
 
 
-<body class="page" itemscope itemtype="http://schema.org/WebPage">
+<body class="page{% if page.url == '/ingress/index.html' or page.url == '/blogs/index.html' %} index-page{% endif %}" itemscope itemtype="http://schema.org/WebPage">
 
 {% include navigation.html %}
 
