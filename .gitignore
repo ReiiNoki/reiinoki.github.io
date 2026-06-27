@@ -8,6 +8,13 @@ _site/
 .jekyll-metadata
 .jekyll-serve.log
 
+# Docusaurus / Node
+node_modules/
+build/
+.docusaurus/
+npm-debug.log*
+docusaurus-start*.log
+
 # Ruby / Bundler local installs
 Gemfile.lock
 vendor/bundle/
