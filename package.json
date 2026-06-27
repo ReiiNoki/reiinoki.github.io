@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "docusaurus start",
-    "build": "docusaurus build && node scripts/copy-legacy-assets.mjs",
+    "build": "docusaurus build",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear"
   },
