@@ -40,11 +40,11 @@ Portal Recon也会对其他NIA的产品，PMGO（天国的PMGO）等（目前不
 
 特典T-shit如图
 
-![特典T-shirt正面](pathname:///ingress/2017-04-12/image001.png)
+![特典T-shirt正面](../static/ingress/2017-04-12/image001.png)
 
 袖子的PR图案
 
-![特典T-shirt袖子PR图案](pathname:///ingress/2017-04-12/image002.png)
+![特典T-shirt袖子PR图案](../static/ingress/2017-04-12/image002.png)
 
 ### 5. 万众期待的 ingress 2.0
 

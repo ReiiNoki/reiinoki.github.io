@@ -121,7 +121,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright (c) ${new Date().getFullYear()} Noki.`,
+      copyright: `Copyright © ${new Date().getFullYear()} ReiiNoki. Built with Docusaurus.`,
     },
     colorMode: {
       defaultMode: 'light',

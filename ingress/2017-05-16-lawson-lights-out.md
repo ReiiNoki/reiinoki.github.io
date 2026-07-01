@@ -6,7 +6,7 @@ slug: "/2017-05-16"
 
 猩猩今天0.30突然在g+上发布了日本爹的专属新活动
 
-![](pathname:///ingress/2017-05-16/image001.png)
+![](../static/ingress/2017-05-16/image001.png)
 
 之前解密的罗森灯终于上架了！
 
@@ -42,17 +42,17 @@ slug: "/2017-05-16"
 
 罗森糖爆率增加时间
 
-![](pathname:///ingress/2017-05-16/image002.jpg)
+![](../static/ingress/2017-05-16/image002.jpg)
 
-![](pathname:///ingress/2017-05-16/image003.jpg)
+![](../static/ingress/2017-05-16/image003.jpg)
 
 所以这是3天还是一周？还是说猩猩的一周其实就是3天？
 
 还有后面的挑战2
 
-![](pathname:///ingress/2017-05-16/image004.jpg)
+![](../static/ingress/2017-05-16/image004.jpg)
 
-![](pathname:///ingress/2017-05-16/image005.jpg)
+![](../static/ingress/2017-05-16/image005.jpg)
 
 英文版有的，达成630灭灯并且都道府县每个至少一个被灭灯的8倍爆率消失了…
 
@@ -62,9 +62,9 @@ slug: "/2017-05-16"
 
 再说配图
 
-![](pathname:///ingress/2017-05-16/image001.png)
+![](../static/ingress/2017-05-16/image001.png)
 
-![](pathname:///ingress/2017-05-16/image006.png)
+![](../static/ingress/2017-05-16/image006.png)
 
 英文版第一眼的感觉就是出了个能持续亮一天或者刷630次双倍物资的灯…
 
