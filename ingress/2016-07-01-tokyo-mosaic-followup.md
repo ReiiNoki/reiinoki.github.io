@@ -12,7 +12,7 @@ slug: "/2016-07-01"
 
 東京タワー×増上寺を楽しむ
 
-![](pathname:///ingress/2016-07-01/image001.png)
+![](../static/ingress/2016-07-01/image001.png)
 
 Ingressmm：https://ingressmm.com/?find=%E6%9D%B1%E4%BA%AC%E3%82%BF%E3%83%AF%E3%83%BC%C3%97%E5%A2%97%E4%B8%8A%E5%AF%BA%E3%82%92%E6%A5%BD%E3%81%97%E3%82%80
 

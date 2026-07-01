@@ -13,4 +13,4 @@ draft: true
 
 [星が降った場所](https://bannergress.com/banner/%E6%98%9F%E3%81%8C%E9%99%8D%E3%81%A3%E3%81%9F%E5%A0%B4%E6%89%80-b203)
 
-![星が降った場所拼图任务](pathname:///ingress/2024-05-08/image001.jpg)
+![星が降った場所拼图任务](../../static/ingress/2024-05-08/image001.jpg)

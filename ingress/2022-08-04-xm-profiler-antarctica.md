@@ -12,14 +12,14 @@ slug: "/2022-08-04"
 
 现在可以在intel上看到他们三兄弟在一起了。
 
-![图形用户界面 低可信度描述已自动生成](pathname:///ingress/2022-08-04/image001.png)
+![图形用户界面 低可信度描述已自动生成](../static/ingress/2022-08-04/image001.png)
 
-![图形用户界面, 网站 描述已自动生成](pathname:///ingress/2022-08-04/image002.png)
+![图形用户界面, 网站 描述已自动生成](../static/ingress/2022-08-04/image002.png)
 
 通过以下链接在游戏里也可看到
 
 https://intel.ingress.com/intel?pll=-82.63037,129.258409
 
-![手机屏幕的截图 描述已自动生成](pathname:///ingress/2022-08-04/image003.jpg)
+![手机屏幕的截图 描述已自动生成](../static/ingress/2022-08-04/image003.jpg)
 
 剩下的位于大阪2号机今年内可能也会下线并移动到南极了吧。

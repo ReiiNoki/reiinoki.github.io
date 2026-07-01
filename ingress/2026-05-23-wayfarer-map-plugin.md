@@ -12,11 +12,11 @@ slug: "/2026-05-23"
 
 因为谷歌地图在内地已经不再更新，地图数据和坐标信息不准确，我借用了Codex的力量开发了这个插件，给 Niantic Wayfarer 补给站地图加上了高德地图层支持，并且做了坐标修正，可以使内地还坚持游玩的玩家更加便利。
 
-![街道图对比](pathname:///ingress/2026-05-23/vsroad.png)
+![街道图对比](../static/ingress/2026-05-23/vsroad.png)
 
 左：高德街道图；右：谷歌街道图
 
-![卫星图对比](pathname:///ingress/2026-05-23/vssat.png)
+![卫星图对比](../static/ingress/2026-05-23/vssat.png)
 
 左：高德卫星图；右：谷歌卫星图
 
