@@ -1,0 +1,15 @@
+.comments {
+  border-top: 1px solid var(--noki-line);
+  margin-top: 3rem;
+  padding-top: 1.25rem;
+}
+
+.heading {
+  color: var(--noki-text);
+  font-family: var(--ifm-heading-font-family);
+  font-size: 0.9rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  margin: 0 0 1.25rem;
+  text-transform: uppercase;
+}
