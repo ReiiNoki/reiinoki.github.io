@@ -14,27 +14,27 @@ slug: "/2026-05-21"
 
 #### 海南省
 
-![海南省](../static/ingress/2026-05-21/hainan.png)
+![海南省](../static/media/ingress/2026-05-21/hainan.png)
 
 海南不仅是全岛都能玩，在海南治区南边的小岛，比如图上的三沙也能畅玩宝可梦Go。这个南方小岛突然就有了丰缘地区南方小岛的感觉，可以在拉蒂亚斯和拉蒂欧斯刷新的时候去那边玩，体验一下童年玩宝石版的感觉。
 
 #### 黑龙江省和吉林省
 
-![黑龙江省和吉林省](../static/ingress/2026-05-21/heilongjiangjilin.png)
+![黑龙江省和吉林省](../static/media/ingress/2026-05-21/heilongjiangjilin.png)
 
 东北地区几乎全境可玩也不算什么新闻了。我还记得多年前因为玩这个游戏还有闹到派出所去的。东北地区的大学都应该列入宝可梦粉丝们的备选名单内了。
 
 #### 新疆维吾尔自治区
 
-![新疆](../static/ingress/2026-05-21/xinjiang1.png)
+![新疆](../static/media/ingress/2026-05-21/xinjiang1.png)
 
 新疆主要是乌鲁木齐补给站特别多。
 
-![新疆](../static/ingress/2026-05-21/xinjiang2.png)
+![新疆](../static/media/ingress/2026-05-21/xinjiang2.png)
 
 #### 辽宁省
 
-![辽宁省](../static/ingress/2026-05-21/liaoning.png)
+![辽宁省](../static/media/ingress/2026-05-21/liaoning.png)
 
 辽宁省可玩的地区还是很多的，沈阳有很多补给站，外围的其他城市也有一些。但是大连和葫芦岛，西南和沿海地区就完全没有补给站了。
 
@@ -42,59 +42,59 @@ slug: "/2026-05-21"
 
 #### 湛江市
 
-![湛江市](../static/ingress/2026-05-21/zhanjiang.png)
+![湛江市](../static/media/ingress/2026-05-21/zhanjiang.png)
 
 顺便说，湛江以南的雷州半岛也有一些补给站，虽然数量不多，但也能玩。
 
 #### 普宁市
 
-![普宁市](../static/ingress/2026-05-21/puning.png)
+![普宁市](../static/media/ingress/2026-05-21/puning.png)
 
 普宁既不是边境城市，也不是海滨城市，但市区居然有这么不少补给站可以玩宝可梦Go,属实是我意料之外。
 
 #### 珠海市
 
-![珠海市](../static/ingress/2026-05-21/zhuhai.png)
+![珠海市](../static/media/ingress/2026-05-21/zhuhai.png)
 
 珠海与澳门接壤，使得珠海市区的补给站数量不少。我还记得17年的澳门XMA，当时在珠海吃的三文鱼好好吃。
 
 #### 北海市
 
-![北海市](../static/ingress/2026-05-21/beihai.png)
+![北海市](../static/media/ingress/2026-05-21/beihai.png)
 
 作为广西南部的临海城市，北海的市区也有不少补给站可以玩宝可梦Go。
 
 #### 东兴市
 
-![东兴市](../static/ingress/2026-05-21/dongxing.png)
+![东兴市](../static/media/ingress/2026-05-21/dongxing.png)
 
 东兴市也是一个边境城市，因为和越南接壤，所以市区有一些补给站，虽然数量不多，但也能玩。
 
 #### 汕头市
 
-![汕头市](../static/ingress/2026-05-21/shantou1.png)
+![汕头市](../static/media/ingress/2026-05-21/shantou1.png)
 
-![汕头市](../static/ingress/2026-05-21/shantou2.png)
+![汕头市](../static/media/ingress/2026-05-21/shantou2.png)
 
 汕头近年来也成为了热门旅游城市，节假日经常有很多游客来玩。虽然市区没有补给站，但是在潮南两英，汕头南站，甚至莲花峰景区都有一些补给站。如果有机会去汕头玩的话，不妨远离喧嚣的市区，到这些地方去玩一下宝可梦Go，体验一下不一样的汕头吧。
 
 #### 深圳市
 
-![深圳市](../static/ingress/2026-05-21/shenzhen1.png)
+![深圳市](../static/media/ingress/2026-05-21/shenzhen1.png)
 
-![深圳市](../static/ingress/2026-05-21/shenzhen2.png)
+![深圳市](../static/media/ingress/2026-05-21/shenzhen2.png)
 
 虽然和珠海一样地处边界区，但是深圳的市中心离边境较远，只有莲塘和罗湖两个口岸附近有补给站。
 
 #### 陆丰市
 
-![陆丰市](../static/ingress/2026-05-21/lufeng.png)
+![陆丰市](../static/media/ingress/2026-05-21/lufeng.png)
 
 陆丰市的补给站集中在甲子镇里，其他地方只有旅游景点有零星的补给站比如玄武山和观音岭。
 
 #### 惠来县
 
-![惠来县](../static/ingress/2026-05-21/huilai.png)
+![惠来县](../static/media/ingress/2026-05-21/huilai.png)
 
 惠来的补给站主要集中在主城区，但是县内旅游景点区也有零星的补给站。比如海滨度假村，金狮嘴喉的妈祖像，石碑山灯塔，客鸟尾。这些旅游区的补给站真的太少了，几乎一个地方只有一个补给站，还是在惠来城区玩吧。
 

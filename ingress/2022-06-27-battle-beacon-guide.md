@@ -10,19 +10,19 @@ slug: "/2022-06-27"
 
 首先是要计算下一个结算周期的开始时间，从ingress的比分界面，或者po上的portal scan上可以看到。
 
-![图形用户界面, 应用程序 描述已自动生成](../static/ingress/2022-06-27/image001.jpeg)
+![图形用户界面, 应用程序 描述已自动生成](../static/media/ingress/2022-06-27/image001.jpeg)
 
-![](../static/ingress/2022-06-27/image003.jpeg)
+![](../static/media/ingress/2022-06-27/image003.jpeg)
 
 接下来就是按下scan portal的按钮，在本周期内任意时间对po进行7次扫描上传，成功后po上会出现一个环形箭头。
 
-![](../static/ingress/2022-06-27/image004.jpeg)
+![](../static/media/ingress/2022-06-27/image004.jpeg)
 
 然后就是等到这个周期结束结算，下个周期开始（每个周期是175小时），猩猩就会给这个po投放战斗道标了。不过这次结算时间真的太阴间了吧...
 
-![图形用户界面, 文本 描述已自动生成](../static/ingress/2022-06-27/image002.jpeg)
+![图形用户界面, 文本 描述已自动生成](../static/media/ingress/2022-06-27/image002.jpeg)
 
-![](../static/ingress/2022-06-27/image005.jpeg)
+![](../static/media/ingress/2022-06-27/image005.jpeg)
 
 投放的战斗道标可能实际会误差个2到3分钟，今天的周期接算是3点，晚了3分钟。
 
