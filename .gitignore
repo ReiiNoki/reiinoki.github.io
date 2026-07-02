@@ -1,23 +1,12 @@
 # Drafts and local notes
 draft/
 
-# Jekyll build output and caches
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-.jekyll-serve.log
-
 # Docusaurus / Node
 node_modules/
 build/
 .docusaurus/
 npm-debug.log*
 docusaurus-start*.log
-
-# Ruby / Bundler local installs
-Gemfile.lock
-vendor/bundle/
 
 # IDE and editor files
 .agents/
