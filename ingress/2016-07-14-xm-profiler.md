@@ -10,17 +10,17 @@ slug: "/2016-07-14"
 
 [お台場公園めぐり](https://bannergress.com/banner/%E3%81%8A%E5%8F%B0%E5%A0%B4%E5%85%AC%E5%9C%92%E3%82%81%E3%81%90%E3%82%8A-8737)
 
-![台场公园拼图](../static/ingress/2016-07-14/image001.jpg)
+![台场公园拼图](../static/media/ingress/2016-07-14/image001.jpg)
 
 （说真的这是个有点坑的拼图…我完全没想到一个18任务的拼图竟然会做了5个小时都没做完…感兴趣的同学请一定要注意任务的编号！因为9号和10号的起点起点po很接近所以很容易弄错！）
 
 刚开始路过未来科学馆的时候还以为这个机器会在那附近，然而是直到我做到第11个任务，到了青海站附近的VenusFort才发现了这个中二机器的po。
 
-![VenusFort附近的XM Profiler的po](../static/ingress/2016-07-14/image002.png)
+![VenusFort附近的XM Profiler的po](../static/media/ingress/2016-07-14/image002.png)
 
 （写稿子刚刚截的图…嗯嗯满满都是ap）
 
-![AP截图](../static/ingress/2016-07-14/image003.jpg)
+![AP截图](../static/media/ingress/2016-07-14/image003.jpg)
 
 到的时候这个po正被两个绿军大叔 `@divetodeep` 和 `@kontaro001` 占领还丧心病狂加了三个AXA...
 
@@ -28,15 +28,15 @@ slug: "/2016-07-14"
 
 于是沿着po的方向走过去果然看到了几个自动贩卖机中出了一台高大上的奇怪机子！
 
-![XM Profiler中二机器](../static/ingress/2016-07-14/image004.jpg)
+![XM Profiler中二机器](../static/media/ingress/2016-07-14/image004.jpg)
 
 当然也看到了两位大叔（要不然怎么知道是两个大叔呢23333），亲切交谈了顺便抱怨了下716蓝军赢了也没什么意义（日蓝表示这个系列输了的锅我们不背）后，两个大叔就默默回家（搅基？）了，留下这个3AXA的po给我自己一个人慢慢炸（能不能有点良心3AXA啊混蛋！）
 
-![3AXA的po](../static/ingress/2016-07-14/image005.jpg)
+![3AXA的po](../static/media/ingress/2016-07-14/image005.jpg)
 
 首先我看了看两个屏幕，上方的屏幕是我们熟悉的地区分数排行和地区的蓝绿比例（应该是po的owner比例），最右边那一栏是这个po的mod情况。
 
-![上屏显示分数排行和阵营比例](../static/ingress/2016-07-14/image006.jpg)
+![上屏显示分数排行和阵营比例](../static/media/ingress/2016-07-14/image006.jpg)
 
 下面的屏幕就是po上的脚和脚的ID啦。
 
@@ -50,31 +50,31 @@ slug: "/2016-07-14"
 
 （受到攻击时的下屏）
 
-![受到攻击时的下屏](../static/ingress/2016-07-14/image007.jpg)
+![受到攻击时的下屏](../static/media/ingress/2016-07-14/image007.jpg)
 
 炸成白之后两个屏幕都变成白色了。
 
-![炸白后的上屏](../static/ingress/2016-07-14/image008.jpg)
+![炸白后的上屏](../static/media/ingress/2016-07-14/image008.jpg)
 
-![炸白后的下屏](../static/ingress/2016-07-14/image009.jpg)
+![炸白后的下屏](../static/media/ingress/2016-07-14/image009.jpg)
 
 插入脚成功capture后
 
-![capture后的上屏](../static/ingress/2016-07-14/image010.jpg)
+![capture后的上屏](../static/media/ingress/2016-07-14/image010.jpg)
 
-![capture后的下屏](../static/ingress/2016-07-14/image011.jpg)
+![capture后的下屏](../static/media/ingress/2016-07-14/image011.jpg)
 
 （记得没错的话capture好像还发出了神奇的声音…要是记错了请当做我没说）
 
-![capture完成](../static/ingress/2016-07-14/image012.jpg)
+![capture完成](../static/media/ingress/2016-07-14/image012.jpg)
 
 然而插入mod时却没什么特别的。
 
-![插入mod](../static/ingress/2016-07-14/image013.jpg)
+![插入mod](../static/media/ingress/2016-07-14/image013.jpg)
 
 最后是po的介绍。
 
-![po的介绍画面](../static/ingress/2016-07-14/image014.jpg)
+![po的介绍画面](../static/media/ingress/2016-07-14/image014.jpg)
 
 猩猩你就不能用英文吗！
 

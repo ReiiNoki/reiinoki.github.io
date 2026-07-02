@@ -6,7 +6,7 @@ slug: "/2022-07-21"
 
 7月19日，日本著名饮料厂商伊藤园官方推特 伊藤园自贩机情报局发布了以下的推特：
 
-![](../static/ingress/2022-07-21/image001.png)
+![](../static/media/ingress/2022-07-21/image001.png)
 
 在日本京都放置的XM-Profiler中二机器4号机已进入维修状态（其实应该下线了）。
 
@@ -38,7 +38,7 @@ https://mp.weixin.qq.com/s?\_\_biz=MzA3NTc3Njk5Nw==&mid=2651693330&idx=1&sn=f60d
 
 2022年3月19日，伊藤园官方发布了一号机下线的通知。
 
-![](../static/ingress/2022-07-21/image002.png)
+![](../static/media/ingress/2022-07-21/image002.png)
 
 之后这个po的位置已经被移动到南极，可以通过以下的链接查看。
 

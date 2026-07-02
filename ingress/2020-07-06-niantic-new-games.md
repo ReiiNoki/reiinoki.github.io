@@ -14,11 +14,11 @@ slug: "/2020-07-06"
 
 我们知道，猩猩现在发行的游戏除了本公众号主推的动物森友会（不是是ingress）以外，还有大红大紫然而在国内只有少数地区可以玩到的Pokemon Go 以及玩家相对少得多的 Harry Potter：Wizard Units。这开发中的10个以上游戏有一个已经在去年发布了相关的情报，名字是 Catan: World Explorers，由国外著名的桌面游戏Catan (卡坦岛)为基础改编。
 
-![](../static/ingress/2020-07-06/image002.jpeg)
+![](../static/media/ingress/2020-07-06/image002.jpeg)
 
 桌游：卡坦岛
 
-![](../static/ingress/2020-07-06/image003.jpeg)
+![](../static/media/ingress/2020-07-06/image003.jpeg)
 
 Niantic Lab新游戏 Catan: World Explorers 概念图
 
@@ -38,7 +38,7 @@ Niantic Lab新游戏 Catan: World Explorers 概念图
 
 不仅如此，今年的GO Fest 2020也做成了周末不限地区，即使你在家里也可以参加的活动（当然还是要氪金），猩猩还宣布将会捐出至少5亿美元的门票收入，宝可梦世界第一ip真的很赚钱（因为参加会赠送限定幻之宝可梦比克提尼）。
 
-![ビクティニの話題 2020/6/17(水)22時頃 - ツイ速クオリティ！！【Twitter】](../static/ingress/2020-07-06/image001.jpeg)
+![ビクティニの話題 2020/6/17(水)22時頃 - ツイ速クオリティ！！【Twitter】](../static/media/ingress/2020-07-06/image001.jpeg)
 
 GO Fest 2020 和比克提尼剪影（这个真的不是皮卡丘！）
 

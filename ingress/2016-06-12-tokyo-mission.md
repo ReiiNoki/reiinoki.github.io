@@ -37,7 +37,7 @@ AegisNova : Tokyo , JP (unofficial)
 
 推荐度：★★★★★
 
-![](../static/ingress/2016-06-12/image001.png)
+![](../static/media/ingress/2016-06-12/image001.png)
 
 Bannergress: [https://bannergress.com/banner/aegisnova-tokyo-jp-unofficial-5532](https://bannergress.com/banner/aegisnova-tokyo-jp-unofficial-5532)
 
@@ -49,7 +49,7 @@ Bannergress: [https://bannergress.com/banner/aegisnova-tokyo-jp-unofficial-5532]
 
 目前为止一共有以下几组。
 
-![](../static/ingress/2016-06-12/image002.png)
+![](../static/media/ingress/2016-06-12/image002.png)
 
 （截选自@omoti128 G+）
 
@@ -65,7 +65,7 @@ AEGIS NOVA TOKYO MEMORY
 
 推荐度：★★★★★
 
-![](../static/ingress/2016-06-12/image003.png)
+![](../static/media/ingress/2016-06-12/image003.png)
 
 Bannergress: [https://bannergress.com/banner/aegis-nova-tokyo-memory-c540](https://bannergress.com/banner/aegis-nova-tokyo-memory-c540)
 
@@ -85,7 +85,7 @@ Bannergress: [https://bannergress.com/banner/aegis-nova-tokyo-memory-c540](https
 
 推荐度：★★★★★
 
-![](../static/ingress/2016-06-12/image004.png)
+![](../static/media/ingress/2016-06-12/image004.png)
 
 Bannergress: [https://bannergress.com/banner/%E3%81%8A%E5%8F%B0%E5%A0%B4%E5%85%AC%E5%9C%92%E3%82%81%E3%81%90%E3%82%8A-8737](https://bannergress.com/banner/%E3%81%8A%E5%8F%B0%E5%A0%B4%E5%85%AC%E5%9C%92%E3%82%81%E3%81%90%E3%82%8A-8737)
 
@@ -106,7 +106,7 @@ Bannergress: [https://bannergress.com/banner/%E3%81%8A%E5%8F%B0%E5%A0%B4%E5%85%A
 
 推荐度：★★★★☆
 
-![](../static/ingress/2016-06-12/image005.png)
+![](../static/media/ingress/2016-06-12/image005.png)
 
 Bannergress:
 
@@ -128,7 +128,7 @@ Bannergress:
 
 推荐度：★★★★☆
 
-![](../static/ingress/2016-06-12/image006.jpg)
+![](../static/media/ingress/2016-06-12/image006.jpg)
 
 Bannergress: [https://bannergress.com/banner/%E6%98%8E%E6%B2%BB%E7%A5%9E%E5%AE%AE%E5%A4%96%E8%8B%91%E3%81%AE%E9%8A%80%E6%9D%8F%E4%B8%A6%E6%9C%A8-8cde](https://bannergress.com/banner/%E6%98%8E%E6%B2%BB%E7%A5%9E%E5%AE%AE%E5%A4%96%E8%8B%91%E3%81%AE%E9%8A%80%E6%9D%8F%E4%B8%A6%E6%9C%A8-8cde)
 
@@ -152,7 +152,7 @@ Bannergress: [https://bannergress.com/banner/%E6%98%8E%E6%B2%BB%E7%A5%9E%E5%AE%A
 
 推荐度：★★★★☆
 
-![](../static/ingress/2016-06-12/image007.png)
+![](../static/media/ingress/2016-06-12/image007.png)
 
 Bannergress:
 
@@ -174,7 +174,7 @@ Bannergress:
 
 推荐度：★★★★☆
 
-![](../static/ingress/2016-06-12/image008.jpg)
+![](../static/media/ingress/2016-06-12/image008.jpg)
 
 Bannergress:
 
@@ -196,7 +196,7 @@ Bannergress:
 
 推荐度：★★★★☆
 
-![](../static/ingress/2016-06-12/image009.png)
+![](../static/media/ingress/2016-06-12/image009.png)
 
 Bannergress:
 
@@ -216,7 +216,7 @@ Bannergress:
 
 推荐度：★★★★☆
 
-![](../static/ingress/2016-06-12/image010.png)
+![](../static/media/ingress/2016-06-12/image010.png)
 
 Bannergress:
 
@@ -238,7 +238,7 @@ BIG BANG~両勢力の創生~
 
 推荐度：★★★★☆
 
-![](../static/ingress/2016-06-12/image011.jpg)
+![](../static/media/ingress/2016-06-12/image011.jpg)
 
 Bannergress: [https://bannergress.com/banner/big-bang-%E4%B8%A1%E5%8B%A2%E5%8A%9B%E3%81%AE%E5%89%B5%E7%94%9F-c9f9](https://bannergress.com/banner/big-bang-%E4%B8%A1%E5%8B%A2%E5%8A%9B%E3%81%AE%E5%89%B5%E7%94%9F-c9f9)
 
@@ -260,7 +260,7 @@ Bannergress: [https://bannergress.com/banner/big-bang-%E4%B8%A1%E5%8B%A2%E5%8A%9
 
 推荐度：★★★★☆
 
-![](../static/ingress/2016-06-12/image012.png)
+![](../static/media/ingress/2016-06-12/image012.png)
 
 Bannergress：
 
@@ -274,7 +274,7 @@ Bannergress：
 
 ## IIDABASHI ROMANCE & KOKUBUNJI FANTASY
 
-![](../static/ingress/2016-06-12/image013.png)
+![](../static/media/ingress/2016-06-12/image013.png)
 
 Bannergress: [https://bannergress.com/banner/iidabashi-romance-aba5](https://bannergress.com/banner/iidabashi-romance-aba5)
 
@@ -301,7 +301,7 @@ Bannergress: [https://bannergress.com/banner/iidabashi-romance-aba5](https://ban
 
 推荐度：★★★☆☆
 
-![](../static/ingress/2016-06-12/image014.png)
+![](../static/media/ingress/2016-06-12/image014.png)
 
 Bannergress: [https://bannergress.com/banner/%E8%90%BD%E5%90%88%E8%9B%8D-b82b](https://bannergress.com/banner/%E8%90%BD%E5%90%88%E8%9B%8D-b82b)
 
@@ -325,7 +325,7 @@ Bannergress: [https://bannergress.com/banner/%E8%90%BD%E5%90%88%E8%9B%8D-b82b](h
 
 推荐度：★★★☆☆
 
-![](../static/ingress/2016-06-12/image015.png)
+![](../static/media/ingress/2016-06-12/image015.png)
 
 Bannergress: [https://bannergress.com/banner/%E5%8E%9F%E5%AE%BF-%E8%A1%A8%E5%8F%82%E9%81%93%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84%E5%B7%A1%E3%82%8A-e7dc](https://bannergress.com/banner/%E5%8E%9F%E5%AE%BF-%E8%A1%A8%E5%8F%82%E9%81%93%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84%E5%B7%A1%E3%82%8A-e7dc)
 
@@ -347,7 +347,7 @@ Bannergress: [https://bannergress.com/banner/%E5%8E%9F%E5%AE%BF-%E8%A1%A8%E5%8F%
 
 推荐度：★★★☆☆
 
-![](../static/ingress/2016-06-12/image016.png)
+![](../static/media/ingress/2016-06-12/image016.png)
 
 Bannergress: [https://bannergress.com/banner/%E9%80%A3%E4%BD%9C-%E4%B8%8A%E9%87%8E%E3%81%8B%E3%82%89%EF%BD%BD%EF%BD%B6%EF%BD%B2%EF%BE%82%EF%BE%98%EF%BD%B0%E3%81%B8-cef3](https://bannergress.com/banner/%E9%80%A3%E4%BD%9C-%E4%B8%8A%E9%87%8E%E3%81%8B%E3%82%89%EF%BD%BD%EF%BD%B6%EF%BD%B2%EF%BE%82%EF%BE%98%EF%BD%B0%E3%81%B8-cef3)
 
@@ -365,7 +365,7 @@ Bannergress: [https://bannergress.com/banner/%E9%80%A3%E4%BD%9C-%E4%B8%8A%E9%87%
 
 推荐度：★★★☆☆
 
-![](../static/ingress/2016-06-12/image017.jpg)
+![](../static/media/ingress/2016-06-12/image017.jpg)
 
 Bannergress:
 
@@ -389,7 +389,7 @@ Bannergress:
 
 推荐度：★★★☆☆
 
-![](../static/ingress/2016-06-12/image018.png)
+![](../static/media/ingress/2016-06-12/image018.png)
 
 Bannergress:
 
@@ -407,7 +407,7 @@ Bannergress:
 
 推荐度：★★★☆☆
 
-![](../static/ingress/2016-06-12/image019.png)
+![](../static/media/ingress/2016-06-12/image019.png)
 
 Bannergress: [https://bannergress.com/banner/%E5%A4%A9%E7%A9%BA%E3%81%AE%E5%9F%8E-4501](https://bannergress.com/banner/%E5%A4%A9%E7%A9%BA%E3%81%AE%E5%9F%8E-4501)
 
@@ -425,7 +425,7 @@ Bannergress: [https://bannergress.com/banner/%E5%A4%A9%E7%A9%BA%E3%81%AE%E5%9F%8
 
 ## 鷹番の鷹
 
-![](../static/ingress/2016-06-12/image020.png)
+![](../static/media/ingress/2016-06-12/image020.png)
 
 Bannergress: [https://bannergress.com/banner/%E9%B7%B9%E7%95%AA%E3%81%AE%E9%B7%B9-7efd](https://bannergress.com/banner/%E9%B7%B9%E7%95%AA%E3%81%AE%E9%B7%B9-7efd)
 
@@ -444,7 +444,7 @@ Bannergress: [https://bannergress.com/banner/%E9%B7%B9%E7%95%AA%E3%81%AE%E9%B7%B
 
 ## 「暫」 SHIBARAKU
 
-![](../static/ingress/2016-06-12/image021.png)
+![](../static/media/ingress/2016-06-12/image021.png)
 
 Bannergress:
 
@@ -472,7 +472,7 @@ Bannergress:
 
 推荐度：★★☆☆☆
 
-![](../static/ingress/2016-06-12/image022.jpg)
+![](../static/media/ingress/2016-06-12/image022.jpg)
 
 Bannergress：[https://bannergress.com/banner/%E9%A2%A8%E9%9B%B7%E7%A5%9E%E9%96%80-%E7%AC%AC4%E7%AB%A0-5766](https://bannergress.com/banner/%E9%A2%A8%E9%9B%B7%E7%A5%9E%E9%96%80-%E7%AC%AC4%E7%AB%A0-5766)
 
@@ -494,7 +494,7 @@ Bannergress：[https://bannergress.com/banner/%E9%A2%A8%E9%9B%B7%E7%A5%9E%E9%96%
 
 推荐度：★★☆☆☆
 
-![](../static/ingress/2016-06-12/image023.jpg)
+![](../static/media/ingress/2016-06-12/image023.jpg)
 
 Bannergress:
 
@@ -516,7 +516,7 @@ Bannergress:
 
 推荐度：★★☆☆☆
 
-![](../static/ingress/2016-06-12/image024.png)
+![](../static/media/ingress/2016-06-12/image024.png)
 
 Bannergress:
 
@@ -543,7 +543,7 @@ Bannergress:
 
 （本拼图没有系列名）
 
-![](../static/ingress/2016-06-12/image025.png)
+![](../static/media/ingress/2016-06-12/image025.png)
 
 Bannergress: [https://bannergress.com/banner/%E3%81%82-%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B3%A2%E5%A1%94-6578](https://bannergress.com/banner/%E3%81%82-%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B3%A2%E5%A1%94-6578)
 
@@ -567,7 +567,7 @@ G+上看到某AG用了两周的下班时间完成了这个拼图。（因为没�
 
 推荐度：★☆☆☆☆
 
-![](../static/ingress/2016-06-12/image026.png)
+![](../static/media/ingress/2016-06-12/image026.png)
 
 Bannergress:
 
