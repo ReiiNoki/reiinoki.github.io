@@ -20,6 +20,7 @@ Gemfile.lock
 vendor/bundle/
 
 # IDE and editor files
+.agents/
 .idea/
 .vscode/
 *.swp
