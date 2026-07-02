@@ -16,15 +16,15 @@ slug: "/2024-05-11"
 
 在个人ID下面会出现一个UMM Opt的新按钮，按下即会出现工具的界面。
 
-![UMM插件按钮位置](../static/ingress/2024-05-11/image001.png)
+![UMM插件按钮位置](../static/media/ingress/2024-05-11/image001.png)
 
 工具的主界面如下
 
-![UMM主界面](../static/ingress/2024-05-11/image002.png)
+![UMM主界面](../static/media/ingress/2024-05-11/image002.png)
 
 左上角是任务路线选择和各个任务的路线切换工具
 
-![任务路线切换工具](../static/ingress/2024-05-11/image004.png)
+![任务路线切换工具](../static/media/ingress/2024-05-11/image004.png)
 
 ### 3. 使用方法
 
@@ -32,11 +32,11 @@ slug: "/2024-05-11"
 
 在主界面按下Edit banner details
 
-![Edit banner details按钮](../static/ingress/2024-05-11/image003.png)
+![Edit banner details按钮](../static/media/ingress/2024-05-11/image003.png)
 
 在这里可以编辑任务系列名，任务介绍，任务数量和各个任务的标题格式，编辑后最下方会生成给定格式的任务名预览。
 
-![任务标题格式编辑界面](../static/ingress/2024-05-11/image005.png)
+![任务标题格式编辑界面](../static/media/ingress/2024-05-11/image005.png)
 
 其中，符号T表示任务名，NN和N分别表示有无前导0的任务编号，M表示任务总数。
 
@@ -48,13 +48,13 @@ slug: "/2024-05-11"
 
 这里就需要使用左上角的任务路线编辑工具了。
 
-![任务路线编辑工具](../static/ingress/2024-05-11/image006.png)
+![任务路线编辑工具](../static/media/ingress/2024-05-11/image006.png)
 
 只要在地图上选po就可以编辑任务路线，例如我现在这个是任务1，路线有7个po那工具上就会显示1和P7，按下 `>>|` 或 `|<<` 按钮可以切换编辑中的任务。
 
 如果想要规划较长路线的组图，可以在地图上直接选取一个长路线，在主界面中选择Split mission
 
-![Split mission功能](../static/ingress/2024-05-11/image007.png)
+![Split mission功能](../static/media/ingress/2024-05-11/image007.png)
 
 填入任务长度就可以分割成对应数量的任务了。
 
@@ -72,7 +72,7 @@ slug: "/2024-05-11"
 
 现在网站左上角会有这一个新的导入按钮
 
-![导入按钮位置](../static/ingress/2024-05-11/image008.png)
+![导入按钮位置](../static/media/ingress/2024-05-11/image008.png)
 
 点击文件夹按钮导入之前的json文件
 
@@ -80,17 +80,17 @@ slug: "/2024-05-11"
 
 在左上方文件夹右侧下拉列表选择想申请的任务，点击Import出现以下通知即可导入任务路线。
 
-![导入成功通知](../static/ingress/2024-05-11/image009.png)
+![导入成功通知](../static/media/ingress/2024-05-11/image009.png)
 
 任务类型分为Sequential(序列完成)和Any Order（任意顺序完成）类型可供选择。如果申请序列型的话，可以打勾设置为隐藏路线的任务（这时需要为其他agent提供线索）。
 
 下一页面的任务标题和描述已经填好了，只需要把任务图标导入即可。
 
-![任务图标导入界面](../static/ingress/2024-05-11/image012.png)
+![任务图标导入界面](../static/media/ingress/2024-05-11/image012.png)
 
 路线也导入完毕，直接下一步提交即可。
 
-![提交页面](../static/ingress/2024-05-11/image011.png)
+![提交页面](../static/media/ingress/2024-05-11/image011.png)
 
 用这个工具唯一的缺点就是任务路线无法使用Field Trip的地点了，不过现在影响也不大。
 

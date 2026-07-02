@@ -46,7 +46,7 @@ function extractItems(sidebar: SidebarJson, source: string): BlogListItem[] {
 }
 
 /**
- * 合并 default（/blogs）与 ingress（/ingress）两个 blog 的文章，
+ * 合并 default（/blog）与 ingress（/ingress）两个 blog 的文章，
  * 按日期降序排列。每个 sidebar JSON 本身已按日期降序，这里做归并即可。
  */
 export function useAllBlogPosts(): ReadonlyArray<BlogListItem> {

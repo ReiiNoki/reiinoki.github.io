@@ -33,7 +33,7 @@ const config: Config = {
         docs: false,
         blog: {
           path: 'blog',
-          routeBasePath: 'blogs',
+          routeBasePath: 'blog',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -85,7 +85,7 @@ const config: Config = {
       },
       items: [
         {to: '/', label: 'Home', position: 'left', exact: true},
-        {to: '/blogs', label: 'Blogs', position: 'left'},
+        {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/ingress', label: 'Ingress', position: 'left'},
         {to: '/comment', label: 'Comment', position: 'left'},
         {
@@ -102,7 +102,7 @@ const config: Config = {
           title: 'Site',
           items: [
             {label: 'Home', to: '/'},
-            {label: 'Blogs', to: '/blogs'},
+            {label: 'Blog', to: '/blog'},
             {label: 'Ingress', to: '/ingress'},
             {label: 'Comment', to: '/comment'},
           ],
