@@ -1,7 +1,7 @@
 ---
 title: "一个全新的博客"
 date: "2026-07-01"
-slug: "/2026-07-01-new-blog"
+slug: "/2026-07-01-brand-new-blog"
 ---
 ## 写在前面
 

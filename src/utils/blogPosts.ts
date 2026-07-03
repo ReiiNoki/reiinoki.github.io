@@ -51,7 +51,7 @@ function extractItems(sidebar: SidebarJson, source: string): BlogListItem[] {
  */
 export function useAllBlogPosts(): ReadonlyArray<BlogListItem> {
   const merged = [
-    ...extractItems(defaultSidebar as SidebarJson, 'blogs'),
+    ...extractItems(defaultSidebar as SidebarJson, 'blog'),
     ...extractItems(ingressSidebar as SidebarJson, 'ingress'),
   ];
   return merged.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
