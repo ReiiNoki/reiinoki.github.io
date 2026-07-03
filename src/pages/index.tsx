@@ -2,7 +2,11 @@ import React, {useEffect, useState} from 'react';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
-import {useAllBlogPosts} from '../utils/blogPosts';
+import {useAllBlogPosts, type BlogListItem} from '../utils/blogPosts';
+
+const pinnedPostPermalinks = ['/blog/2026-07-01-brand-new-blog'] as const;
+const pinnedPermalinkSet = new Set<string>(pinnedPostPermalinks);
+const recentPostLimit = 8;
 
 const rotatingTitles = [
   'Resistance Agent, Ingress',
@@ -12,12 +16,45 @@ const rotatingTitles = [
 
 const staticSubtitle = rotatingTitles.join(' / ');
 
+function getPinnedPosts(posts: ReadonlyArray<BlogListItem>): ReadonlyArray<BlogListItem> {
+  const postsByPermalink = new Map(posts.map((post) => [post.permalink, post]));
+  return pinnedPostPermalinks.flatMap((permalink) => {
+    const post = postsByPermalink.get(permalink);
+    return post ? [post] : [];
+  });
+}
+
+function getRecentPosts(posts: ReadonlyArray<BlogListItem>): ReadonlyArray<BlogListItem> {
+  return posts
+    .filter((post) => !pinnedPermalinkSet.has(post.permalink))
+    .slice(0, recentPostLimit);
+}
+
 function formatMagDate(dateStr: string): string {
   const d = new Date(dateStr);
   const y = d.getFullYear();
   const m = String(d.getMonth() + 1).padStart(2, '0');
   const day = String(d.getDate()).padStart(2, '0');
   return `${y}.${m}.${day}`;
+}
+
+function PostList({posts}: {readonly posts: ReadonlyArray<BlogListItem>}): React.ReactElement {
+  return (
+    <ul className="mag-post-list">
+      {posts.map((post) => (
+        <li key={post.permalink}>
+          <span className="mag-post-date">
+            {formatMagDate(post.date)}
+          </span>
+          <span className="mag-post-sep" aria-hidden="true">━</span>
+          <Link to={post.permalink} className="mag-post-title">
+            {post.title}
+          </Link>
+          <span className="mag-post-source">[{post.source}]</span>
+        </li>
+      ))}
+    </ul>
+  );
 }
 
 function AnimatedSubtitle(): React.ReactElement {
@@ -78,7 +115,8 @@ function AnimatedSubtitle(): React.ReactElement {
 export default function Home(): React.ReactElement {
   const { siteConfig } = useDocusaurusContext();
   const allPosts = useAllBlogPosts();
-  const recentPosts = allPosts.slice(0, 8);
+  const pinnedPosts = getPinnedPosts(allPosts);
+  const recentPosts = getRecentPosts(allPosts);
 
   return (
     <Layout
@@ -93,25 +131,23 @@ export default function Home(): React.ReactElement {
 
         <section>
           <h2 className="mag-section-title">
+            Pinned Post
+          </h2>
+          {pinnedPosts.length === 0 ? (
+            <p className="mag-empty">暂无置顶文章</p>
+          ) : (
+            <PostList posts={pinnedPosts} />
+          )}
+        </section>
+
+        <section>
+          <h2 className="mag-section-title">
             Recent Posts
           </h2>
           {recentPosts.length === 0 ? (
             <p className="mag-empty">暂无文章</p>
           ) : (
-            <ul className="mag-post-list">
-              {recentPosts.map((post) => (
-                <li key={post.permalink}>
-                  <span className="mag-post-date">
-                    {formatMagDate(post.date)}
-                  </span>
-                  <span className="mag-post-sep" aria-hidden="true">━</span>
-                  <Link to={post.permalink} className="mag-post-title">
-                    {post.title}
-                  </Link>
-                  <span className="mag-post-source">[{post.source}]</span>
-                </li>
-              ))}
-            </ul>
+            <PostList posts={recentPosts} />
           )}
         </section>
 
