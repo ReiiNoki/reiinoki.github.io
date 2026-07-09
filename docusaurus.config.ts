@@ -1,5 +1,7 @@
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import rehypeKatex from 'rehype-katex';
+import remarkMath from 'remark-math';
 
 const config: Config = {
   title: "Noki's Page",
@@ -34,6 +36,8 @@ const config: Config = {
         blog: {
           path: 'blog',
           routeBasePath: 'blog',
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -58,6 +62,8 @@ const config: Config = {
         path: 'ingress',
         routeBasePath: 'ingress',
         exclude: ['**/_drafts/**'],
+        remarkPlugins: [remarkMath],
+        rehypePlugins: [rehypeKatex],
         blogTitle: 'Ingress',
         blogDescription: 'Ingress articles',
         blogSidebarTitle: 'All Ingress Posts',

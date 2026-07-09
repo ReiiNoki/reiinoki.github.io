@@ -14,9 +14,12 @@
     "@giscus/react": "^3.1.0",
     "@mdx-js/react": "latest",
     "clsx": "latest",
+    "katex": "^0.16.47",
     "prism-react-renderer": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "rehype-katex": "^7.0.1",
+    "remark-math": "^6.0.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "latest",
