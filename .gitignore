@@ -1,5 +1,7 @@
 # Drafts and local notes
 draft/
+ingress/_drafts/
+blog/_drafts/
 
 # Docusaurus / Node
 node_modules/
