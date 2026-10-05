@@ -28,7 +28,7 @@ slug: "/2026-07-01-brand-new-blog"
 - 文章编写：Markdown
 - 文章托管：Github Page
 - 文章编译：Github Action
-- CDN加速: Cloudflare
+- CDN加速：Cloudflare
 - 域名：
   reiinoki.github.io   github page 自带免费域名
   reiinoki.dpdns.org   DigitalPlat Domains 免费域名，用于Cloudflare加速
